@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/transactions"
+        android:icon="@drawable/ic_book"
+        android:title="Trans." />
+
+    <item android:id="@+id/stats"
+        android:icon="@drawable/ic_chart"
+        android:title="Stats" />
+
+    <item android:title="Accounts"
+        android:id="@+id/accounts"
+        android:icon="@drawable/ic_accounts"/>
+
+    <item android:title="More"
+        android:id="@+id/more"
+        android:icon="@drawable/ic_more"/>
+
+</menu>
